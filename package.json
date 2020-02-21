@@ -1,0 +1,23 @@
+{
+  "name": "dianzibook",
+  "version": "1.0.0",
+  "description": "这是一个Gitbook自动化构建的Demo。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunmenghan2017/dianzibook.git"
+  },
+  "keywords": [],
+  "author": "sunmenghan2017",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sunmenghan2017/dianzibook/issues"
+  },
+  "homepage": "https://github.com/sunmenghan2017/dianzibook#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
